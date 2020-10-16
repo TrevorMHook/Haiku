@@ -1,5 +1,6 @@
-#!/bin/bash
+#!/bin/bash --login
 pwd
-echo "ahweufhalwef"
+echo "ahweSEANufhalwef"
+echo "Sean did this"
 ls
 source bash2.sh
